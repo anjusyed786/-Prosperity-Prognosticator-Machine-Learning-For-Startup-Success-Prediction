@@ -1,0 +1,2 @@
+# -Prosperity-Prognosticator-Machine-Learning-For-Startup-Success-Prediction
+ Prosperity Prognosticator is a Machine Learning-based predictive analytics system designed to evaluate the potential success of startups. The model analyzes key factors such as funding history, industry domain, market size, team background, and financial performance to forecast whether a startup is likely to succeed or fail.
